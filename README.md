@@ -1,8 +1,6 @@
 # trabalho-design-de-interacao
-Implementação do projeto de interface do curso de Analise e Desenvolvimento de Sistemas
+CRUD de funcionários com cadastro, edição, e exclusão de dados desenvolvido com PHP, MySQL e Bootstrap
 
-Está é a tela inicial do Projeto desenvolvido com PHP, MySQL e Bootstrap
+A interface foi implementada utilizando um Mockup que esta junto com o projeto
 
 ![crud](https://user-images.githubusercontent.com/8061835/46299094-fca0a780-c576-11e8-8ffb-916fbd14aa48.png)
-
-O Mockup está junto com o projeto
